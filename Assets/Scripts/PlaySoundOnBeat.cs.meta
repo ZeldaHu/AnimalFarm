@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 51879160a41bf49b293d4ca674e82215
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _soundManager: {instanceID: 0}
+  - tapClip: {instanceID: 0}
+  - tickClip: {instanceID: 0}
+  - cowClip: {instanceID: 0}
+  - birdClip: {instanceID: 0}
+  - dogClip: {instanceID: 0}
+  - horseClip: {instanceID: 0}
+  - llamaClip: {instanceID: 0}
+  - pigClip: {instanceID: 0}
+  - sheepClip: {instanceID: 0}
+  - turkeyClip: {instanceID: 0}
+  - cloudClip: {instanceID: 0}
+  - cowIcon: {fileID: 21300000, guid: 57c065d2e54ba488d88269ef94622e9b, type: 3}
+  - birdIcon: {fileID: 21300000, guid: e687aa0d367624e90b91be2f1c04ffec, type: 3}
+  - dogIcon: {fileID: 21300000, guid: cadb4152769244b6495c698a4f269aec, type: 3}
+  - horseIcon: {fileID: 21300000, guid: f1e571294acf44171a5a8dde64919c55, type: 3}
+  - llamaIcon: {fileID: 21300000, guid: b15dd5e344d924392a39abe833566012, type: 3}
+  - pigIcon: {fileID: 21300000, guid: 2a073153fbb374058873c74a7165562c, type: 3}
+  - sheepIcon: {fileID: 21300000, guid: 7b50d1a77739945979bf315454f91e31, type: 3}
+  - turkeyIcon: {fileID: 21300000, guid: 421753b945b72412fa3f6ce2fef016c3, type: 3}
+  - cloudIcon: {fileID: 21300000, guid: f1828c97e13e1484db89fc04cbea145e, type: 3}
+  - replayBtn: {instanceID: 0}
+  - gameOverImg: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

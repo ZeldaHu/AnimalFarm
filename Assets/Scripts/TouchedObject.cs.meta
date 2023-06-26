@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8403bbc35a241e244b2196783ce4f04f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bird_Star: {fileID: 7802804586474498215, guid: 996308d5a58d74aa5a0c3fc5f1960699, type: 3}
+  - Cow_Star: {fileID: 7602575236872040071, guid: 0ec413ebd25bc45908945a4378ddad84, type: 3}
+  - Horse_Star: {fileID: 6566414945361662557, guid: 7bcb5941119e64c6fb1f4de434cd4719, type: 3}
+  - Llama_Star: {fileID: 6719054829978041008, guid: 7a22ea6887ee2487c96d4725d60d003b, type: 3}
+  - Pig_Star: {fileID: 4510934150841087553, guid: ce23fcd1179f348338923bfaab6a0ad3, type: 3}
+  - Pug_Star: {fileID: 1507588230382058832, guid: 644345f72da90422693e7fa7389091f3, type: 3}
+  - Sheep_Star: {fileID: 6615858460406699027, guid: 1d0af4a5888e44f9cbb70431ea3b26a8, type: 3}
+  - Turkey_Star: {fileID: 3004595791678672821, guid: a98eb48bd27e14e1ba3fd7f842aa4e3d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
