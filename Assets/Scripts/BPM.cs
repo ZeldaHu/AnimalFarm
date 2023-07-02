@@ -30,7 +30,7 @@ public class BPM : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     void Update()
@@ -41,7 +41,7 @@ public class BPM : MonoBehaviour
         _bpm = bpmSlider.value;
         bpmText.text = _bpm.ToString("0");
         //Debug.Log(_bpm);
-        
+
     }
 
     void BeatDetection()
@@ -55,7 +55,7 @@ public class BPM : MonoBehaviour
         {
             _beatTimer -= _beatInterval;
             _beatFull = true;
-            _beatCountFull ++;
+            _beatCountFull++;
         }
     }
 }
